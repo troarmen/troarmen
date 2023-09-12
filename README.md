@@ -1,8 +1,5 @@
 ### Hi there, I'm Tro 👋
 
-<!--- Flags --->
-### Languages and Tools:
-
 <h2>
   Skills
 </h2>
